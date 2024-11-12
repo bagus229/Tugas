@@ -31,4 +31,4 @@ print("="*50)
 for mhs in data_mahasiswa:
     print(f"{mhs['nama']:<15} {mhs['nim']:<15} {mhs['tugas']:<10} {mhs['uts']:<10} {mhs['uas']:<10} {mhs['nilai_akhir']:<10.2f}")
 
-print("="*50)
+print("="*80)
